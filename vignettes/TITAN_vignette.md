@@ -452,7 +452,7 @@ First, read in the MCF7 PEPE model RDS which can be found
 [here](https://www.dropbox.com/s/procxdnedx2m6or/Model_MCF7_PEPE_20T_CLR_5000Variable_M10.rds?dl=0).
 
 ``` r
-top_model <- readRDS("../data/Model_PEPE_T47D_20T_CLR_5000Variable_M10.rds")
+MCF7_top_model <- readRDS("Model_MCF7_PEPE_20T_CLR_5000Variable_M10.rds")
 ```
 
 ``` r
